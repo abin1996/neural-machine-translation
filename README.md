@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/OpenNMT/OpenNMT.svg?branch=master)](https://travis-ci.org/OpenNMT/OpenNMT) [![codecov](https://codecov.io/gh/OpenNMT/OpenNMT/branch/master/graph/badge.svg)](https://codecov.io/gh/OpenNMT/OpenNMT)
+
 
 # OpenNMT: Open-Source Neural Machine Translation
 
@@ -57,14 +57,6 @@ For more details, visit the [documentation](http://opennmt.net/OpenNMT/).
 
 A [technical report](https://arxiv.org/abs/1701.02810) on OpenNMT is available. If you use the system for academic work, please cite:
 
-```
-@ARTICLE{2017opennmt,
-  author = {{Klein}, G. and {Kim}, Y. and {Deng}, Y. and {Senellart}, J. and {Rush}, A.~M.},
-  title = "{OpenNMT: Open-Source Toolkit for Neural Machine Translation}",
-  journal = {ArXiv e-prints},
-  eprint = {1701.02810}
-}
-```
 
 ## Acknowledgments
 
